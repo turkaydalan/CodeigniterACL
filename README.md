@@ -9,12 +9,14 @@ Bu proje için güncellemeler ve bilgi için
 https://github.com/turkaydalan/CodeigniterACL/
 
 Giriş
+==============
 
 ACL uygulamaları için küçük bir yetki doğrulama modülüdür.
 Sisteminiz için oluşturacağınız roller,kullanıcılar,gruplar gibi bir çok tür için yetkiler oluşturup ve 
 bunların kontrollerini yapabilirsiniz.
 
 Özellikler:
+==============
 
     * Kullanımı Kolaydır. Sadece birkaç veritabanı tablosu ve bir class dosyası gerektirir.
     * CodeIgniter tarafından desteklenen herhangi bir veritabanı ile çalışır.
@@ -24,6 +26,7 @@ bunların kontrollerini yapabilirsiniz.
     * Bağımsız kaynaklar oluşturup ve bu kaynakların eylemleri yönetebilirsiniz. Hiyerarşik bir şekilde kaynakları sıralayabilir ve yetki verebilirsiniz.
 
 Sonraki adımlar:
+============================
 
 * Programcılar için , kaynaklar ve izinleri kolayca yönetebilmeleri için arayüzler oluşturmak
 
@@ -32,6 +35,7 @@ Lisans
 Bu kütüphane ücretsiz bir yazılımdır, siz istediğiniz gibi  dağıtabilir ve / veya değiştirebilirsiniz
 
 Gereksinimler
+==============
 
     * PHP 5.x veya üzeri
     * Bir veritabanı (MySQL üzerinde test edilmiştir).
@@ -39,5 +43,6 @@ Gereksinimler
 Kurulum notları için INSTALL dosyasını okuyunuz
 
 İletişim Bilgileri:
+==============
 
 turkaydalan@gmail.com
