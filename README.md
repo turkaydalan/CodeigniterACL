@@ -29,7 +29,7 @@ Sonraki adımlar:
 
 Lisans
 
-Bu kütüphane ücretsiz bir yazılımdır, siz koşulları altında dağıtabilir ve / veya değiştirebilirsiniz
+Bu kütüphane ücretsiz bir yazılımdır, siz istediğiniz gibi  dağıtabilir ve / veya değiştirebilirsiniz
 
 Gereksinimler
 
