@@ -25,6 +25,18 @@ bunların kontrollerini yapabilirsiniz.
     * Bağımsız olarak üyeleri ve grupları yönetebilirsiniz. Grupları hiyerarşik bir şekilde yetkilendirebilirsiniz.
     * Bağımsız kaynaklar oluşturup ve bu kaynakların eylemleri yönetebilirsiniz. Hiyerarşik bir şekilde kaynakları sıralayabilir ve yetki verebilirsiniz.
 
+Yapı Ve Hiyerarşisi
+====
+
+<ul>
+  <li>Kullanıcılar</li>
+  <li>Gruplar<ul><li>AltGrupları<ul><li>AltGrupları<ul><li>AltGrupları........</li></ul></li></ul></li></ul></li>
+  <li>Moduller<ul><li>AltModüller<ul><li>AltModüller<ul><li>AltModüller........</li></ul></li></ul></li></ul></li>
+  <li>Eylemler</li>
+  <li>Üyelikler</li>
+  <li>Yetkiler</li>
+</ul>
+
 Sonraki adımlar:
 ============================
 
