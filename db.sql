@@ -7,15 +7,6 @@
 -- Sunucu sürümü: 5.6.12-log
 -- PHP Sürümü: 5.4.16
 
-SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
-SET time_zone = "+00:00";
-
---
--- Veritabanı: `projem`
---
-CREATE DATABASE IF NOT EXISTS `projem` DEFAULT CHARACTER SET utf8 COLLATE utf8_turkish_ci;
-USE `projem`;
-
 -- --------------------------------------------------------
 
 --
